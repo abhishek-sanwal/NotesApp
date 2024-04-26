@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37f8096-83e1-40b5-bf9a-f71ef4e6f4e3" name="Changes" comment="Updated files" />
+    <list default="true" id="a37f8096-83e1-40b5-bf9a-f71ef4e6f4e3" name="Changes" comment="Updated files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_website/notes/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/notes_website/notes/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_website/notes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes_website/notes/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_website/notes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes_website/notes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_website/notes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes_website/notes/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

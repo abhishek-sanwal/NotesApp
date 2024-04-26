@@ -1,9 +1,9 @@
 from django.urls import path
 
-from notes_website.notes import views
+from . import views
 
-url_pattern = [
+urlpatterns = [
     path('', views.index, name="notes"),
-    path('/delete/<str:item_id>', views.remove, name="delete"),
+    path('del/<str:item_id>', views.remove, name="del"),
 
 ]
